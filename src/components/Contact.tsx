@@ -159,7 +159,7 @@ const Contact = () => {
 
         <div className="text-center mt-16 pt-8 border-t border-slate-700/50">
           <p className="text-slate-400">
-            © 2024 Abhal Benny. Built with React & Tailwind CSS
+            © 2024 Abhal Benny
           </p>
         </div>
       </div>
