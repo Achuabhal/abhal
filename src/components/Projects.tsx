@@ -13,7 +13,7 @@ const Projects = () => {
         "Real-time updates",
         "40% efficiency improvement"
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Achuabhal/it-fest-pic.git",
       liveUrl: "https://chipper-dusk-8b959c.netlify.app/"
     },
     {
@@ -26,7 +26,7 @@ const Projects = () => {
         "Interactive particle effects",
         "Material-UI components"
       ],
-      githubUrl: "",
+      githubUrl: "https://github.com/Achuabhal/it-fest-pic.git",
       liveUrl: "https://caias-itfeat-5th-rounds.netlify.app/"
     },
     {
@@ -40,7 +40,7 @@ const Projects = () => {
         "Full-stack implementation"
       ],
       githubUrl: "https://github.com/Achuabhal/ecoemrseblockchain.git",
-      liveUrl: "#"
+      liveUrl: "https://github.com/Achuabhal/ecoemrseblockchain.git"
     },
     {
       title: "Gym Management Website",
@@ -53,7 +53,7 @@ const Projects = () => {
         "Member management"
       ],
       githubUrl: "https://github.com/itcodehery/appwrite-project.git",
-      liveUrl: "#"
+      liveUrl: "https://github.com/itcodehery/appwrite-project.git"
     },
     {
   title: "Voice-to-Text Transcription Web App",
@@ -66,7 +66,7 @@ const Projects = () => {
     "Markdown rendering for formatted text output",
     "Responsive UI with smooth UX"
   ],
-  githubUrl: "#",
+  githubUrl: "https://github.com/Achuabhal/voice.git",
   liveUrl: "https://lucent-melomakarona-1c14a8.netlify.app/"
 },
 {
@@ -75,14 +75,47 @@ const Projects = () => {
   description: "Created an AI-powered web app that detects user emotions through facial expressions and recommends music playlists accordingly, enhancing personalized music experiences.",
   features: [
     "Real-time facial emotion detection using webcam",
-    "Tiny Face Detector Model for lightweight and fast analysis",
+
     "Emotion classification (e.g., happy, sad, angry, surprised)",
     "Dynamic music recommendations based on detected mood",
     "Interactive UI for better user engagement"
   ],
   githubUrl: "https://github.com/Achuabhal/edison.git",
   liveUrl: "https://idyllic-sorbet-500bd8.netlify.app/"
-}
+},
+{
+  title: "Interactive Digital Flipbook",
+  tech: ["React", "JavaScript", "CSS3", "HTML5"],
+  description: "Developed a responsive and feature-rich digital flipbook as a freelancing project to offer an engaging and intuitive document viewing experience, simulating the feel of a physical book.",
+  features: [
+    "Realistic page-turning animations with synchronized audio for an immersive reading experience",
+    "Dynamic user controls including zoom, fullscreen mode, and page navigation",
+    "Fully responsive layout compatible with all devices and screen sizes",
+    "Smooth performance and accessible design for broader audience reach",
+    "Enhanced user interaction compared to traditional static PDF viewers"
+  ],
+  githubUrl: "https://github.com/Achuabhal/JACOBITE-SYRIAN-ORTHODOX-CHURCH.git",
+  liveUrl: "https://jacobite-syrian-orthodox-church.vercel.app/"
+},
+{
+  title: "Real-Time Social Messaging App",
+  tech: ["React", "Vite", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "JWT"],
+  description: "Built a full-stack social messaging application that enables real-time chat with features like friend requests, group messaging, and admin moderation. Developed as a major academic project to demonstrate MERN stack expertise.",
+  features: [
+    "User authentication using JWT for secure login and signup",
+    "Send, accept, and reject friend requests with seamless UI integration",
+    "One-to-one and group chat with real-time messaging capabilities",
+    "Admin panel to manage users, monitor content, and handle reports",
+    "User reporting system to flag inappropriate messages or behavior",
+    "Responsive and modern UI using React, Tailwind CSS, and Vite"
+  ],
+  githubUrl: "https://github.com/Achuabhal/ECSFINAL-main.git",
+  liveUrl: "https://github.com/Achuabhal/ECSFINAL-main.git" // Add live URL if hosted
+},
+
+
+
+
 
 
   ];
