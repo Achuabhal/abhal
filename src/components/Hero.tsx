@@ -75,7 +75,7 @@ const Hero = () => {
             <Phone className="w-6 h-6 text-slate-300 hover:text-purple-400" />
           </a>
           <a 
-  href="https://drive.google.com/file/d/1khF46N8mD9z9KXFwaBv3eDsngJiJrAfz/view?usp=sharing" 
+  href="https://drive.google.com/file/d/1sSSF7frSie7IKcyx4cTHY6Ex4kZIiM-4/view?usp=sharing" 
   target="_blank" 
   rel="noopener noreferrer"
   className="p-3 bg-slate-800/50 hover:bg-slate-700/50 rounded-full border border-slate-700/50 transition-all duration-300 hover:scale-110 hover:border-purple-500/50"
